@@ -1,2 +1,2 @@
-# batch
+# node-batch
 node batch
